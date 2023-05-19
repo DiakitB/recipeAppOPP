@@ -1,4 +1,4 @@
-5900
+5898
 84C:\Users\14388\Desktop\recipesA\recipeAppOPP-1\node_modules\css-select\lib\sort.d.ts133290127481354287 0
 66C:\Users\14388\Desktop\recipesA\recipeAppOPP-1\node_modules\braces133290127450735837 1
 59C:\Users\14388\Desktop\recipesA\recipeAppOPP-1\node_modules133290128591769565 1
@@ -35,7 +35,7 @@
 83C:\Users\14388\Desktop\recipesA\recipeAppOPP-1\node_modules\ordered-binary\index.js133290127543908077 0
 80C:\Users\14388\Desktop\recipesA\recipeAppOPP-1\node_modules\terser\lib\output.js133290127547161920 0
 124C:\Users\14388\Desktop\recipesA\recipeAppOPP-1\node_modules\css-select\node_modules\dom-serializer\lib\esm\foreignNames.d.ts133290127481751396 0
-51C:\Users\14388\Desktop\recipesA\recipeAppOPP-1\dist133290135676038692 1
+51C:\Users\14388\Desktop\recipesA\recipeAppOPP-1\dist133290134961318389 1
 118C:\Users\14388\Desktop\recipesA\recipeAppOPP-1\node_modules\csso\node_modules\css-tree\cjs\definition-syntax\index.cjs133290127493299865 0
 105C:\Users\14388\Desktop\recipesA\recipeAppOPP-1\node_modules\posthtml\node_modules\posthtml-parser\license133290127544427775 0
 87C:\Users\14388\Desktop\recipesA\recipeAppOPP-1\node_modules\dom-serializer\package.json133290127510684246 0
@@ -5470,7 +5470,6 @@
 93C:\Users\14388\Desktop\recipesA\recipeAppOPP-1\node_modules\@parcel\core\lib\public\Target.js133290127391592132 0
 86C:\Users\14388\Desktop\recipesA\recipeAppOPP-1\node_modules\@parcel\hash\index.js.flow133290127395323240 0
 121C:\Users\14388\Desktop\recipesA\recipeAppOPP-1\node_modules\@parcel\node-resolver-core\test\fixture\packages\source-alias133290127396314371 1
-69C:\Users\14388\Desktop\recipesA\recipeAppOPP-1\dist\index.91ff9f45.js133290135675968724 0
 126C:\Users\14388\Desktop\recipesA\recipeAppOPP-1\node_modules\@parcel\node-resolver-core\test\fixture\packages\source-alias-glob133290127396304375 1
 139C:\Users\14388\Desktop\recipesA\recipeAppOPP-1\node_modules\@parcel\node-resolver-core\test\fixture\packages\source-alias-glob\package.json133290127396294382 0
 123C:\Users\14388\Desktop\recipesA\recipeAppOPP-1\node_modules\@parcel\node-resolver-core\test\fixture\packages\source\dist.js133290127396324366 0
@@ -5892,10 +5891,9 @@
 70C:\Users\14388\Desktop\recipesA\recipeAppOPP-1\dist\icons.c14567a0.svg133290130790639894 0
 73C:\Users\14388\Desktop\recipesA\recipeAppOPP-1\dist\index.298c33ae.js.map133290127386882491 0
 69C:\Users\14388\Desktop\recipesA\recipeAppOPP-1\dist\index.74177a26.js133290130795216021 0
-73C:\Users\14388\Desktop\recipesA\recipeAppOPP-1\dist\index.91ff9f45.js.map133290135676028701 0
 73C:\Users\14388\Desktop\recipesA\recipeAppOPP-1\dist\index.e37f48ea.js.map133290134961308399 0
 70C:\Users\14388\Desktop\recipesA\recipeAppOPP-1\dist\index.f7626f62.css133290134961138492 0
 74C:\Users\14388\Desktop\recipesA\recipeAppOPP-1\dist\index.fcf34319.css.map133290130795266010 0
-62C:\Users\14388\Desktop\recipesA\recipeAppOPP-1\dist\index.html133290135675968724 0
+62C:\Users\14388\Desktop\recipesA\recipeAppOPP-1\dist\index.html133290134960938394 0
 91C:\Users\14388\Desktop\recipesA\recipeAppOPP-1\dist\received_1126497221112705.0dcba134.webp133290134960038912 0
 91C:\Users\14388\Desktop\recipesA\recipeAppOPP-1\dist\received_1126497221112705.a77c0ad9.webp133290130779436475 0

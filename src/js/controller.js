@@ -55,7 +55,7 @@ const controlPageination = function (goToPage) {
 
 //
 ///
-controllerServing = function (newServings) {
+const controllerServing = function (newServings) {
   //update the recipe serving (in state)
   model.updateServing(newServings);
   // update the reicpe  view
